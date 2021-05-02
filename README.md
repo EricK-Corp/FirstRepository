@@ -21,3 +21,7 @@ for i in range(10):
 # Summary
 ## [Word Document](Word/Readme.md)
 
+
+# Display an image
+
+![Nice Image](.//media/image1.png)
