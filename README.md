@@ -24,4 +24,4 @@ for i in range(10):
 
 # Display an image
 
-![Nice Image](.//media/image1.png)
+![Nice Image](.//Images/Emerging-job-roles-in-artificial-intelligence.jpg)
