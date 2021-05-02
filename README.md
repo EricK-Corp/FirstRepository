@@ -10,3 +10,14 @@
 
 **Bold line**
 
+`Code`
+
+```
+# python code
+for i in range(10):
+  print(i)
+ ```
+
+# Summary
+## [Word Document](Word/Readme.md)
+
