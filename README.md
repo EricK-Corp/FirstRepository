@@ -25,3 +25,10 @@ for i in range(10):
 # Display an image
 
 ![Nice Image](.//Images/Emerging-job-roles-in-artificial-intelligence.jpg)
+
+# Build Tables
+
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
