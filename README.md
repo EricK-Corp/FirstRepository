@@ -30,5 +30,7 @@ for i in range(10):
 
 | Column 1       | Column 2     | Column 3     |
 | :------------- | :----------: | -----------: |
+|  first cell | second cell   | last cell    |
+
+| Column 1       | Column 2     | Column 3     |
 |  Cell Contents | More Stuff   | And Again    |
-| You Can Also   | Put Pipes In | Like this \| |
