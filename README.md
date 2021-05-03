@@ -19,7 +19,7 @@ for i in range(10):
  ```
 
 # Summary
-## [Word Document](Word/Readme.md)
+## [Link to a Readme.md file in a subfolder](SubFolder/README.md)
 
 
 # Display an image
