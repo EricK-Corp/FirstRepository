@@ -36,3 +36,9 @@ for i in range(10):
 |-|-|-|
 |  Cell Contents | More Stuff   | And Again    |
 |second line|||
+
+# Link to our Jupyter Notebook
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erick-dsti/FirstRepository/master?filepath=%2Fnotebook%2FJupyter_notebook_your_turn.ipynb)
+
+
