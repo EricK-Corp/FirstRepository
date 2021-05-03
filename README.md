@@ -33,6 +33,6 @@ for i in range(10):
 |  left align cell | centered cell   | right align cell    |
 
 | Column 1       | Column 2     | Column 3     |
-| - | - |
+| --- | --- |
 |  Cell Contents | More Stuff   | And Again    |
-|second line||
+|second line|||
