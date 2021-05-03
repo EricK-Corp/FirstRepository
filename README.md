@@ -34,7 +34,7 @@ for i in range(10):
 
 | Column 1       | Column 2     | Column 3     |
 |-|-|-|
-|  Cell Contents | More Stuff   | And Again    |
+|  Value 1 | Value 2   | Value 3    |
 |second line|||
 
 # Link to our Jupyter Notebook
