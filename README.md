@@ -39,6 +39,6 @@ for i in range(10):
 
 # Link to our Jupyter Notebook
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erick-dsti/FirstRepository/master?filepath=%2Fnotebook%2FJupyter_notebook_your_turn.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erick-dsti/FirstRepository/main?filepath=%2Fnotebook%2FJupyter_notebook_your_turn.ipynb)
 
 
