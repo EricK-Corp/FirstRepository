@@ -4,19 +4,28 @@
 
 * list with bullet point
 * second bullet point
+  * second level bullet point
 
 1. list with numbers
 2. second number
+
+Create an horizontal bar
+---
+
+> Highlight a text that is important like an introduction or conclusion
+> You can add several lines
+
+You can also highlight specific `words`
 
 **Bold line**
 
 `Code`
 
-```
-# python code
+```python
+# python code / python vocabulary is known
 for i in range(10):
   print(i)
- ```
+```
 
 # Summary
 ## [Link to a Readme.md file in a subfolder](SubFolder/README.md)
