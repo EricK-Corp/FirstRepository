@@ -12,7 +12,7 @@
 Create an horizontal bar
 ---
 
-> Highlight a text that is important like an introduction or conclusion
+> Highlight a text that is important like an introduction or conclusion  
 > You can add several lines
 
 You can also highlight specific `words`
