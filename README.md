@@ -46,7 +46,7 @@ for i in range(10):
 |  Value 1 | Value 2   | Value 3    |
 |second line|||
 
-# Link to our Jupyter Notebook
+# Link to Jupyter Notebook
 
 Fist Test : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erick-dsti/FirstRepository/main?filepath=%2Fnotebook%2FJupyter_notebook_your_turn.ipynb)
 
